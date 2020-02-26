@@ -1,6 +1,6 @@
 A summary of CS-Courses I'm taking now, or in the near future.
 
-Hopefully I can finish all these course!
+Hopefully I can finish all these courses!
 
 ---
 
@@ -48,7 +48,7 @@ Bonus:
 
 Features:
 
-- ####× No Lecture Videos
+- #### × No Lecture Videos
 
 - Complete Notes & Slides
 
@@ -58,7 +58,7 @@ Features:
 
 Bonus:
 
-- xv6 Docment
+- xv6 Document
 
 
 ---
@@ -104,7 +104,7 @@ Bonus:
 
 ---
 
-###6.824 - Distributed Systems @ MIT
+### 6.824 - Distributed Systems @ MIT
 
 **Category: CS Tech**
 
