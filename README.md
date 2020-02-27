@@ -6,7 +6,8 @@ Hopefully I can finish all these courses!
 
 ### CS-61A - SICP @ Berkeley
 **Category: CS Intro**
-**Tags: Python、Functional Programming、Computational Theory**
+
+**Tags: Python, Functional Programming, Computational Theory**
 
 Features:
 
@@ -26,6 +27,7 @@ Bonus:
 ### 15-213 (18-213) - Introduction To Computer Systems @ CMU
 
 **Category: Core CS**
+
 **Tags: Operating Systems,  Networks, Memory, Assembly, C**
 
 Features:
