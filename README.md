@@ -4,14 +4,15 @@ Hopefully I can finish all these courses!
 
 ---
 
-### CS-61A - SICP @ Berkeley
+### [CS-61A - SICP @ Berkeley](https://cs61a.org/)
+
 **Category: CS Intro**
 
 **Tags: Python, Functional Programming, Computational Theory**
 
 Features:
 
-- Lecture Videos
+- [Lecture Videos](https://www.bilibili.com/video/av20538548)
 - Complete Notes & Slides & Source
 - Homework Assignments
 - Labs
@@ -24,7 +25,7 @@ Bonus:
 - Extra Lectures
 ---
 
-### 15-213 (18-213) - Introduction To Computer Systems @ CMU
+### [15-213 (18-213) - Introduction To Computer Systems @ CMU](http://www.cs.cmu.edu/~213/)
 
 **Category: Core CS**
 
@@ -32,7 +33,7 @@ Bonus:
 
 Features:
 
-- Lecture Videos - with Chinese subtitles
+- [Lecture Videos - with Chinese subtitles](https://www.bilibili.com/video/av31289365)
 - Complete Notes & Slides
 - Labs
 
@@ -42,7 +43,7 @@ Bonus:
 - Textbook: CS:APP, 3e
 - Great Recitations
 ---
-### 6.828 - Operating Systems Engineering @ MIT
+### [6.828 - Operating Systems Engineering @ MIT](https://pdos.csail.mit.edu/6.828/2019/index.html)
 
 **Category: Core CS**
 
@@ -65,7 +66,7 @@ Bonus:
 
 ---
 
-### CS-144 - Introduction to Computer Networking @ Stanford
+### [CS-144 - Introduction to Computer Networking @ Stanford](https://cs144.github.io/)
 
 **Category: Core CS**
 
@@ -73,7 +74,7 @@ Bonus:
 
 Features:
 
-- Lecture Videos
+- [Lecture Videos](https://www.bilibili.com/video/av39441624)
 - Complete: Notes & Slides
 - Labs
 
@@ -85,7 +86,7 @@ Bonus:
 
 ---
 
-### 15-445 (15-645) - Database Systems @ CMU
+### [15-445 (15-645) - Database Systems @ CMU](https://15445.courses.cs.cmu.edu/fall2019/)
 
 **Category: Core CS**
 
@@ -93,7 +94,7 @@ Bonus:
 
 Features:
 
-- Lecture Videos
+- [Lecture Videos](https://www.bilibili.com/video/av80249033)
 - Complete: Notes & Slides
 - Homework (Quiz Like)
 - Projects (Lab Like) 
@@ -106,7 +107,7 @@ Bonus:
 
 ---
 
-### 6.824 - Distributed Systems @ MIT
+### [6.824 - Distributed Systems @ MIT](https://pdos.csail.mit.edu/6.824/)
 
 **Category: CS Tech**
 
@@ -114,7 +115,7 @@ Bonus:
 
 Features:
 
-- Lecture Videos
+- [Lecture Videos](https://www.bilibili.com/video/av87684880)
 - Complete: Notes & Slides
 - Labs
 
@@ -126,7 +127,7 @@ Bonus:
 
 ---
 
-### CS-143 - Compilers @ Stanford
+### [CS-143 - Compilers @ Stanford](http://web.stanford.edu/class/cs143/index2018.html)
 
 **Category: Core CS**
 
@@ -134,7 +135,7 @@ Bonus:
 
 Features:
 
-- Lecture Videos - with Chinese subtitles
+- [Lecture Videos - with Chinese subtitles](https://www.bilibili.com/video/av70600292)
 - Complete: Notes & Slides
 - "Programming Assignment" (Lab Like)
 
