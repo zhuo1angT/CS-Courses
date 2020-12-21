@@ -1,14 +1,11 @@
 ## Great CS Courses
 
-Since my major is not computer science, many important system courses are missing in my undergraduate education. Here, I summarized some of the best courses from the best colleges. Maybe later I'll ref my impl of some labs of these courses.
-
 A summary of CS-Courses I'm taking now, or in the near future.
+
+Since my major is not computer science, many important system courses are missing in my undergraduate education. Here, I summarized some of the best courses from the best colleges. Maybe later I'll ref my impl of some labs of these courses.
 
 Hopefully I can finish all these courses!
 
-
-
----
 
 ### [CS-61A - SICP @ Berkeley](https://cs61a.org/)
 
