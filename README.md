@@ -6,6 +6,7 @@ Since my major is not computer science, many important system courses are missin
 
 Hopefully I can finish all these courses!
 
+---
 
 ### [CS-61A - SICP @ Berkeley](https://cs61a.org/)
 
