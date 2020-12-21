@@ -55,7 +55,7 @@ Features:
 
 - #### ~~× No Lecture Videos~~
 
-- 2020 Fall upd: due to the pandemic, MIT now posted the lecture videos to Youtube, it can be accessed directly from course schedule.
+- 2020 Fall upd: due to the pandemic, MIT now posted the lecture videos on Youtube, it can be accessed directly from course schedule.
 
   - eg. [Lecture 1](https://youtu.be/L6YqHxYHa7A)
 
