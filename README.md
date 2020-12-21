@@ -1,6 +1,12 @@
+## Great CS Courses
+
+Since my major is not computer science, many important system courses are missing in my undergraduate education. Here, I summarized some of the best courses from the best colleges. Maybe later I'll ref my impl of some labs of these courses.
+
 A summary of CS-Courses I'm taking now, or in the near future.
 
 Hopefully I can finish all these courses!
+
+
 
 ---
 
@@ -57,7 +63,7 @@ Features:
 
 - 2020 Fall upd: due to the pandemic, MIT now posted the lecture videos on Youtube, it can be accessed directly from course schedule.
 
-  - eg. [Lecture 1](https://youtu.be/L6YqHxYHa7A)
+  - e.g. [Lecture 1](https://youtu.be/L6YqHxYHa7A)
 
 - Complete Notes & Slides
 
